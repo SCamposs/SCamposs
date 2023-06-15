@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm Ítalo Soares Campos, a Full-Stack Developer p
 <a href="https://www.instagram.com/italo._sc/">
 <img src="https://img.shields.io/badge/italo.%5Fsc-006666?style=for-the-badge&logo=instagram&logoColor=white" /> 
 </a>
+
 ## About Me
 I have experience working with the following technologies and languages:
 

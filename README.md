@@ -18,9 +18,9 @@ I have experience working with the following technologies and languages:
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+ <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-
-I am currently focusing on learning ReactJS to enhance my front-end development skills. My goal is to become a proficient Full-Stack Developer and contribute to the creation of impactful projects.
+I am currently focusing on learning NodeJS to enhance my back-end development skills. My goal is to become a proficient Full-Stack Developer and contribute to the creation of impactful projects.
 
 
 How to reach me: 

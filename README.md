@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Ítalo Soares Campos - Full-Stack Developer </h1>
+ <h1>Ítalo Soares Campos - Front End Developer </h1>
 
 Welcome to my GitHub profile! I'm Ítalo Soares Campos, a Full-Stack Developer passionate about building web applications. I am currently studying web development through the Ignite course at Rocketseat, where I am expanding my skills and knowledge.
 

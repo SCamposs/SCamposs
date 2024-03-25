@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Ítalo Soares Campos, a Front End Developer pa
 </a>
 
 ## About Me
-I have experience working with the following technologies and languages:
+I have experience with the following technologies and languages:
 
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@ I have experience working with the following technologies and languages:
  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
  <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-I am currently focusing on learning NodeJS to enhance my back-end development skills. My goal is to become a proficient Full-Stack Developer and contribute to the creation of impactful projects.
+I am currently focusing on learning NextJS to enhance my front-end development skills. My goal is to become a proficient Full-Stack Developer and contribute to the creation of impactful projects.
 
 
 How to reach me: 

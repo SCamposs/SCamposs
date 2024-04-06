@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm Ítalo Soares Campos, a Front End Developer passionate about building web applications. I am currently studying web development through the Ignite course at Rocketseat, where I am expanding my skills and knowledge.
 
-<a href="https://www.linkedin.com/in/ítalo-soares-campos-5060b9269/" >
+<a href="https://www.linkedin.com/in/ítalo-soares-campos-5060b9269/](https://www.linkedin.com/in/italo-soares-campos/" >
   <img src="https://img.shields.io/badge/Ítalo Soares Campos-006666?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 <a href="https://www.instagram.com/italo._sc/">

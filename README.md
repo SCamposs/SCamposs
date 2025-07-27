@@ -1,7 +1,11 @@
 <div align="center">
  <h1>Ítalo Soares Campos - Front End Developer </h1>
 
-Welcome to my GitHub profile! I'm Ítalo Soares Campos, a Front End Developer passionate about building web applications. I am currently studying web development through the Ignite course at Rocketseat, where I am expanding my skills and knowledge.
+Welcome to my GitHub profile! I'm Ítalo Soares Campos, a Front End Developer passionate about building clean and scalable web applications.
+
+I'm currently working on internal systems at **ZeenTech**, where I'm developing modern interfaces using **Next.js**, **Tailwind CSS**, and **shadcn/ui**. I'm focused on creating reusable, accessible components with excellent user experience.
+
+Additionally, I'm always studying UI/UX on my own, applying concepts in practice and evolving daily with real projects and prototypes.
 
 <a href="https://www.linkedin.com/in/italo-soares-campos/" >
   <img src="https://img.shields.io/badge/Ítalo Soares Campos-006666?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -20,8 +24,9 @@ I have experience with the following technologies and languages:
  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
  <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-I am currently focusing on learning NextJS to enhance my front-end development skills. My goal is to become a proficient Full-Stack Developer and contribute to the creation of impactful projects.
+I am currently deepening my skills in **Next.js** and **design systems**, focusing on componentization, accessibility best practices, and testing in real-world projects.
 
+My goal is to become a proficient Full-Stack Developer and contribute to the creation of impactful, high-quality digital products.
 
 How to reach me: 
 

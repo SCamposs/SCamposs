@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm Ítalo Soares Campos, a Front End Developer passionate about building clean and scalable web applications.
 
-I'm currently working on internal systems at **ZeenTech**, where I'm developing modern interfaces using **Next.js**, **Tailwind CSS**, and **shadcn/ui**. I'm focused on creating reusable, accessible components with excellent user experience.
+I'm currently working on internal systems at **zeentech**, where I'm developing modern interfaces using **Next.js**, **Tailwind CSS**, and **zod**. I'm focused on creating reusable, accessible components with excellent user experience.
 
 Additionally, I'm always studying UI/UX on my own, applying concepts in practice and evolving daily with real projects and prototypes.
 

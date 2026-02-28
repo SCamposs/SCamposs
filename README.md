@@ -38,5 +38,5 @@ How to reach me:
 
 `If you have any questions or potential collaboration opportunities, feel free to reach out to me.`
 
-![Ítalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCamposs&show_icons=true&theme=gotham)
+[![Ítalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCamposs&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 </div>
